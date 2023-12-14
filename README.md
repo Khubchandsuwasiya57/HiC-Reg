@@ -211,4 +211,5 @@ Script for training and predicting in bash script
 ### FeatureAnalysis/
 Tree path analysis and rules counting of how many times a feature or a pair of features are used to predict a test pair
 - featureanalysis.sh (bash script to run steps in one)
-
+or bhaiyo kese ho aap log 
+sab badhiya hai ya koi log bimar hai
